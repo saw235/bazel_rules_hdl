@@ -24,7 +24,7 @@ def boost():
         # This equivalent to boost 1.82
         commit = "1217caae292dc9f14e8109777ba43c988cf89c5b",
         remote = "https://github.com/nelhage/rules_boost",
-        shallow_since = "1640124117 -0800",
+        shallow_since = "1684906281 +0000",
         patches = [
             # rules_boost does not include Boost Python, see
             # https://github.com/nelhage/rules_boost/issues/67
